@@ -1,0 +1,26 @@
+# Virtual environment
+myenv/
+
+# Raw data — never push large data files to GitHub
+raw_data/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output images and parquet — optional, keep PDFs
+outputs/*.png
+outputs/*.csv
+PDFs
+# Environment variables
+.env
+*.env
