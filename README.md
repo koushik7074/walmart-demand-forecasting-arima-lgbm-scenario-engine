@@ -5,7 +5,7 @@
 
 ## Overview
 
-End-to-end retail demand forecasting pipeline built on Walmart's real store sales data (2010–2012). The project benchmarks five model families across five departments, makes data-driven regressor selection decisions, and implements a scenario stress-testing engine directly analogous to DFAST/CCAR macro conditioning in credit risk.
+End-to-end retail demand forecasting pipeline built on Walmart's real store sales data (2010–2012). The project benchmarks five model families across five departments, makes data-driven regressor selection decisions, and implements a scenario stress-testing engine.
 
 **The core question:** Can incorporating external drivers — temperature, promotions, holidays — improve weekly department-level sales forecasts beyond what seasonal autocorrelation alone captures?
 
